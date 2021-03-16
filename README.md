@@ -7,8 +7,8 @@ make
 ./Neverwinter-Nights
 ```
 ## Contributing Members
--Qian Ruiling (BEng, Year 1, UID:3035767827, user name: alfredqrl)
--Sun Xiaopeng (BEng, Year 1, UID:3035770642, user name: Angelasun2002)
+- Qian Ruiling (BEng, Year 1, UID:3035767827, user name: alfredqrl)
+- Sun Xiaopeng (BEng, Year 1, UID:3035770642, user name: Angelasun2002)
 ## Game Description & Basic Rules
 Our game is a role-playing text-based game, we try to make it similar to Dungeons & Dragons (DND). Players will explore a wild and remote zone. On their adventure, they will beat enemies, collect items, and eventually discover the hidden secret of a mysterious relic.
 **1. Players**
