@@ -10,19 +10,20 @@ make
 - Qian Ruiling (BEng, Year 1, UID:3035767827, user name: alfredqrl)
 - Sun Xiaopeng (BEng, Year 1, UID:3035770642, user name: Angelasun2002)
 ## Game Description & Basic Rules
-Our designed game is a role-playing break through and monsters-fighting game(PVE mode).Players will participate ifacedn the game as a warrior challenger. On his adventure,he will fighted with a monster at every checkpoint. The difficulty of killing monsters will increase as the level is unlocked.
+Our designed game is a role-playing break through and monsters-fighting game (PVE or PVP mode). Players will participate the game as a warrior challenger. On his adventure,he will fighted with a monster at every checkpoint (Totally 8 checkpoints). The difficulty of killing monsters will increase as the checkpoints is unlocked while the player's fighting power will also improve by buying goods.
 **1. Players**
-The game will require four players to join.
+The game will require one to two players to join. The mode of the game is PVE or PVP depends on choices made by the user.
 **2. Intilization Of Game**
-On the beginning of game, after naming their characters, players will be given chances to decide their races, talents and attributes. Different choices would have multiple impact on the gameplay. They all have to roll a dice to determine the exact number of each property. 
-**3. Moving and Travelling**
-The player can decide where to go. On different places, players will face different incidents and distinguishtive activities.
-**4. Battle System**
-Players have to beat dangerous monsters along their journey. We introduce a battle system including ATT, DEX, STA, INT (stands for attack, agility, life, intelligence). Besides,Luck involves in our battle, the number of dice a player (or the monster) will have great effect on the fighting, making it unpredictable and more challenging.
+On the beginning of game, after naming their characters, players can first choose there perfered role from 5 warrior challenger models. Each model has different power, skills, apperance, and defensive ability. After choosing models, players can click "Start Game" to enter the formal game interface, or click "Game Toturial" to view the introduction. 
+**3. Skills of each warrior**
+Different Worrirs have different skills. some of them can make damages to enermies and some of them can increase your defensive power. There are many interesting features of each worrier including solving mathematics chellenge to cause demange. Please try this game and enjoy ~~~   
+**4. Innovative application design**
+- Some common sense or mathematical fun questions will appear randomly during the game. If the player answers the questions correctly, the character's power will be increased (different questions will bring different enhancement benefits).
+- Some satirical/motivating words will pop up randomly to increase the player's game fun and interactive experience.
+- Some functional gems will drop randomly to enhance the player’s power after the player pass a checkpoint.
 **5. Player Status**
-Players have multiple attributes. Some of them are crucial to them, like health points (HP) or wealth (number of coins you got). For instance, your gameplay will end if the HP of character goes zero. You can't pass some shortcuts without paying a certain amount of money to the guards.
-**6. Save & Load**
-Players can save their progress in the cozy taverns. If they unluckily get all killed in a battle, they would be able to reload it and have a second chance.
+- HP number: represent the current Health.
+- PP number: represent how many times can be used for each skills for each worrier.
+- Skills: The name of skills, power...
 **7. How To Win**
-
-As long as players make themselves to the deepest spot of this ancient relic, getting the legendary item -- the condemned heart of fallen Lich, beating up the final boss. They will be able to end the tragedy in this cursed area and got final victory.
+After breaking through all of the checkpoints, player can finally get into a castle where he can find a magical box and click "answer question to open it" to do the chanllenge to access to the mysterious reward. 
