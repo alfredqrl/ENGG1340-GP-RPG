@@ -1,12 +1,12 @@
-# ENGG1340-GP43-RPG Neverwinter Nights ![](https://img.shields.io/badge/A%2B%20GP-ENGG1340--GP--RPG-brightgreen) ![](https://img.shields.io/badge/Course-ENGG1340-blue)
-## Install
+# ENGG1340-GP43-RPG  😈 😈 🧟‍♀️ 🧟‍♂️ ![](https://img.shields.io/badge/A%2B%20GP-ENGG1340--GP--RPG-brightgreen) ![](https://img.shields.io/badge/Course-ENGG1340-blue)
+## Install ✅ 
 Please use the command "./main" after the command "make" :)
 Have fun and enjoy your playing!
 ```
 make
 ./ENGG1340-GP-RPG
 ```
-## Contributing Members
+## Contributing Members ⬇️ ⬇️ ⬇️
 - Qian Ruiling (BEng, Year 1, UID:3035767827, user name: alfredqrl)
 - Sun Xiaopeng (BEng, Year 1, UID:3035770642, user name: Angelasun2002)
 ## Game Description & Basic Rules
