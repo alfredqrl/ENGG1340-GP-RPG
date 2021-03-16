@@ -16,7 +16,7 @@ Our designed game is a role-playing break through and monsters-fighting game (PV
 
 The game will require one to two players to join. The mode of the game is PVE or PVP depends on choices made by the user.
 
-**2. Intilization Of Game      **     
+**2. Intilization Of Game**     
 
 On the beginning of game, after naming their characters, players can first choose there perfered role from 5 warrior challenger models. Each model has different power, skills, apperance, and defensive ability. After choosing models, players can click "Start Game" to enter the formal game interface, or click "Game Toturial" to view the introduction. 
 
@@ -24,7 +24,7 @@ On the beginning of game, after naming their characters, players can first choos
 
 Different Worrirs have different skills. some of them can make damages to enermies and some of them can increase your defensive power. There are many interesting features of each worrier including solving mathematics chellenge to cause demange. Please try this game and enjoy 🆘 
 
-**4. Innovative application design**
+**4. Innovative application design**✅ ✅ ✅ ✅ ✅ ✅
 
 - Some common sense or mathematical fun questions will appear randomly during the game. If the player answers the questions correctly, the character's power will be increased (different questions will bring different enhancement benefits).
 - Some satirical/motivating words will pop up randomly to increase the player's game fun and interactive experience.
