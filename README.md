@@ -1,4 +1,4 @@
-# ENGG1340-GP43-RPG Neverwinter Nights ![](https://img.shields.io/badge/License-HKU-yellow) ![](https://img.shields.io/badge/Course-ENGG1340-blue)
+# ENGG1340-GP43-RPG Neverwinter Nights ![](https://img.shields.io/badge/A%2B%20GP-ENGG1340--GP--RPG-brightgreen) ![](https://img.shields.io/badge/Course-ENGG1340-blue)
 ## Install
 Please use the command "./main" after the command "make" :)
 Have fun and enjoy your playing!
