@@ -4,7 +4,7 @@ Please use the command "./main" after the command "make" :)
 Have fun and enjoy your playing!
 ```
 make
-./Neverwinter-Nights
+./ENGG1340-GP-RPG
 ```
 ## Contributing Members
 - Qian Ruiling (BEng, Year 1, UID:3035767827, user name: alfredqrl)
@@ -22,7 +22,7 @@ On the beginning of game, after naming their characters, players can first choos
 
 **3. Skills of each warrior**
 
-Different Worrirs have different skills. some of them can make damages to enermies and some of them can increase your defensive power. There are many interesting features of each worrier including solving mathematics chellenge to cause demange. Please try this game and enjoy ~~~   
+Different Worrirs have different skills. some of them can make damages to enermies and some of them can increase your defensive power. There are many interesting features of each worrier including solving mathematics chellenge to cause demange. Please try this game and enjoy 🆘 
 
 **4. Innovative application design**
 
