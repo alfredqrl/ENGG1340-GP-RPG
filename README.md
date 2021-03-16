@@ -29,7 +29,7 @@ Different Worrirs have different skills. some of them can make damages to enermi
 - Some common sense or mathematical fun questions will appear randomly during the game. If the player answers the questions correctly, the character's power will be increased (different questions will bring different enhancement benefits).
 - Some satirical/motivating words will pop up randomly to increase the player's game fun and interactive experience.
 - Some functional gems will drop randomly to enhance the player’s power after the player pass a checkpoint.
-- 
+ 
 **5. Player Status**
 
 - HP number: represent the current Health.
