@@ -16,7 +16,7 @@ Our designed game is a role-playing break through and monsters-fighting game (PV
 
 The game will require one to two players to join. The mode of the game is PVE or PVP depends on choices made by the user.
 
-**2. Intilization Of Game**
+**2. Intilization Of Game      **     
 
 On the beginning of game, after naming their characters, players can first choose there perfered role from 5 warrior challenger models. Each model has different power, skills, apperance, and defensive ability. After choosing models, players can click "Start Game" to enter the formal game interface, or click "Game Toturial" to view the introduction. 
 
