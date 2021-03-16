@@ -39,3 +39,10 @@ Different Worrirs have different skills. some of them can make damages to enermi
 **6. How To Win**
 
 After breaking through all of the checkpoints, player can finally get into a castle where he can find a magical box and click "answer question to open it" to do the chanllenge to access to the mysterious reward. 
+
+## List of Features
+- Generation of random game sets or events: Monsters' attributes numbers (checkpoints will getting harder). Atrributes of dropped gems (Increase attack or increase defense).
+- Data structures for storing game status: Array, Struct
+- Dynamic memory management
+- File input/output (e.g., for loading/saving game status): Initial and final monsters' or worriers' attribute numbers.
+- Program codes in multiple files: Making several files, such as the mobster file, skill file, and we will make it possible to program these files by combination.
