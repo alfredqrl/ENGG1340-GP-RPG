@@ -1,1 +1,3 @@
-# new file starts here
+# include <iostream>
+# include <cmath>
+using namespace std;
