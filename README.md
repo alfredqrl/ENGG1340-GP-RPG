@@ -46,4 +46,4 @@ After breaking through all of the checkpoints, player can finally get into a cas
 - Dynamic memory management: (TO BE IMPLEMENTED LATER)
 - File input/output (e.g., for loading/saving game status): Initial and final monsters' or worriers' attribute numbers.
 - Program codes in multiple files: Making several files, such as the mobster file, skill file, and we will make it possible to program these files by combination.
-- Different user interface of different stages in the game, like "Game Main UI", "Select your Hero UI", "Battle Field UI", "Rewards UI", or "Mission Success or Failed UI". (All   of them in command-line mode)
+- Different user interface of different stages in the game, like "Game Main UI", "Select Your Hero UI", "Battle Field UI", "Rewards UI", or "Mission Success or Failed UI". (All   of them in command-line mode)
