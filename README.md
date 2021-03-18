@@ -18,31 +18,32 @@ The game will require one to two players to join. The mode of the game is PVE or
 
 **2. Intilization Of Game**🔷
 
-On the beginning of game, after naming their characters, players can first choose there perfered role from 5 warrior challenger models. Each model has different power, skills, apperance, and defensive ability. After choosing models, players can click "Start Game" to enter the formal game interface, or click "Game Toturial" to view the introduction. 
+On the beginning of game, after naming their characters, players can first choose there perfered role from 5 warrior challenger models. Each model has different power, skills, apperance, and defensive ability. After choosing models, players can click "Start Game" to enter the formal game interface, or click "Game Tutorial" to view the introduction. 
 
 **3. Skills of each warrior** 💭 ▶️
 
-Different Worrirs have different skills. some of them can make damages to enermies and some of them can increase your defensive power. There are many interesting features of each worrier including solving mathematics chellenge to cause demange. Please try this game and enjoy ~~~   
+Different Worrirs have different skills. Some of them can make damages to enermies and some of them can increase your defensive power. There are many interesting features of each worrier including solving mathematical chellenges to cause demange. Please try this game and enjoy ~~~   
 
 **4. Innovative application design**📢📢📢
 
 - Some common sense or mathematical fun questions will appear randomly during the game. If the player answers the questions correctly, the character's power will be increased (different questions will bring different enhancement benefits).
-- Some satirical/motivating words will pop up randomly to increase the player's game fun and interactive experience.
+- Some satirical/motivating words will pop up randomly to increase the player's game fun and interactive experience during the game after users triggered traps.
 - Some functional gems will drop randomly to enhance the player’s power after the player pass a checkpoint.
  
 **5. Player Status**🔻
 
-- HP number: represent the current Health.
-- PP number: represent how many times can be used for each skills for each worrier.
-- Skills: The name of skills, power...
+- HP number: Represent the current Health.
+- Bag: To store things collected by the player during or after each checkpoint.
+- Skills: The name of skills, power, PP number (how many times can be used for each skills for each worrier), and speacial effects etc.
 
 **6. How To Win**🔻
 
-After breaking through all of the checkpoints, player can finally get into a castle where he can find a magical box and click "answer question to open it" to do the chanllenge to access to the mysterious reward. 
+After breaking through all of the checkpoints, player can finally get into a castle where he or she can find a magical box and click "answer question to open it" to do the chanllenge to access to the mysterious reward. 
 
-## List of Features ‼️
+## List of Insteresting Features ‼️
 - Generation of random game sets or events: Monsters' attributes numbers (checkpoints will getting harder). Atrributes of dropped gems (Increase attack or increase defense).
-- Data structures for storing game status: Array, Struct
-- Dynamic memory management
+- Data structures for storing game status: Array, Struct, Stack or Queue (if any)
+- Dynamic memory management: (TO BE IMPLEMENT LATER)
 - File input/output (e.g., for loading/saving game status): Initial and final monsters' or worriers' attribute numbers.
 - Program codes in multiple files: Making several files, such as the mobster file, skill file, and we will make it possible to program these files by combination.
+- Different user interface of different stages in the game, like "Game Main UI", "Select your Hero UI", "Battle Field UI", "Rewards UI", or "Mission Success or Failed UI". (All   of them in command-line mode)
