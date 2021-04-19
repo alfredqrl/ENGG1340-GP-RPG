@@ -1,8 +1,9 @@
 # ENGG1340-GP43-RPG  😈 😈 🧟‍♀️ 🧟‍♂️ ![](https://img.shields.io/badge/A%2B%20GP-ENGG1340--GP--RPG-brightgreen) ![](https://img.shields.io/badge/Course-ENGG1340-blue)
 ## Install ✅ 
 Please download them to SSH or X2Go server and use the following command to run, thanks!
+
 ``
-g++ project.cpp -o project
+g++ project.cpp -o project\n
 ./project
 ``
 ## Contributing Members ⬇️ ⬇️ ⬇️
