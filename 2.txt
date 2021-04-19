@@ -1,0 +1,1 @@
+Waterman 50 WaterGun 25 Water_Barrier 75 Water_killer 105 HighPressureWaterGun Kill_boss_2

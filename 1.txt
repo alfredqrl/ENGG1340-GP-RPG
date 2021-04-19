@@ -1,0 +1,1 @@
+Fireman 100 Firegun 50 Nofire 20 Fire_destory 80 DeadFire Kill_boss_3

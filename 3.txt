@@ -1,0 +1,1 @@
+SpecialWorrier 1 K 200 I 200 L 200 KILL Kill_boss_1
