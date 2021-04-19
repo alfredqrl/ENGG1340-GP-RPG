@@ -3,7 +3,9 @@
 Please download them to SSH or X2Go server and use the following command to run, thanks!
 
 ``
-g++ project.cpp -o project\n
+g++ project.cpp -o project
+``
+``
 ./project
 ``
 ## Contributing Members ⬇️ ⬇️ ⬇️
