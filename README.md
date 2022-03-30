@@ -1,5 +1,5 @@
 # Worriers Versus Boss  😈 🧟‍♂️ ![](https://img.shields.io/badge/A%2B%20GP-ENGG1340--GP--RPG-brightgreen) ![](https://img.shields.io/badge/Course-ENGG1340-blue)
-## Individual Project (Teammate dropped)
+## Group Project by Only One Person (For your reference)
 ## Install ✅ 
 Please download them to SSH or X2Go server and use the following command to run, thanks!
 
